@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App1</string>
+    <string name="ingDatos">Enter your data</string>
+    <string name="nombre">Name:</string>
+    <string name="apPat">Last Name:</string>
+    <string name="apMat">Mother's last name:</string>
+    <string name="cumpleaños">Birthday:</string>
+    <string name="siguiente">Next</string>
+    <string name="volver">Back</string>
+    <string name="tu_nombre_es">Your name is:</string>
+    <string name="tu_edad_es">Your age is:</string>
+    <string name="tu_signo_es">Your zodiac sign is:</string>
+    <string name="tu_rfc_es">Your rfc is:</string>
+    <string name="años">years</string>
+    <string name="aries">Aries</string>
+    <string name="tauro">Taurus</string>
+    <string name="geminis">Gemini</string>
+    <string name="cancer">Cancer</string>
+    <string name="leo">Leo</string>
+    <string name="virgo">Virgo</string>
+    <string name="libra">Libra</string>
+    <string name="escorpion">Scorpio</string>
+    <string name="sagitario">Sagitarius</string>
+    <string name="capricornio">Capricorn</string>
+    <string name="acuario">Acuarius</string>
+    <string name="piscis">Pisces</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="ingDatos">Ingresa tus datos</string>
+    <string name="nombre">nombre:</string>
+    <string name="apPat">apelido paterno:</string>
+    <string name="apMat">apelido materno:</string>
+    <string name="cumpleaños">cumpleaños:</string>
+    <string name="siguiente">siguiente</string>
+    <string name="volver">volver</string>
+    <string name="tu_nombre_es">tu nombre es:</string>
+    <string name="tu_edad_es">tu edad es:</string>
+    <string name="tu_signo_es">tu signo es:</string>
+    <string name="tu_rfc_es">tu rfc es:</string>
+    <string name="años">años</string>
+    <string name="aries">Aries</string>
+    <string name="tauro">Tauro</string>
+    <string name="geminis">Géminis</string>
+    <string name="cancer">Cáncer</string>
+    <string name="leo">Leo</string>
+    <string name="virgo">Virgo</string>
+    <string name="libra">Libra</string>
+    <string name="escorpion">Escorpio</string>
+    <string name="sagitario">Sagitario</string>
+    <string name="capricornio">Capricornio</string>
+    <string name="acuario">Acuario</string>
+    <string name="piscis">Piscis</string>
+</resources>
